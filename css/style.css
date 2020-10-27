@@ -13,3 +13,9 @@ body {
     overflow-x: hidden;
     overflow-y: scroll;
 }
+
+header {
+    padding: 15px 70px;
+    display: inline-block;
+    width: 100%;
+}
