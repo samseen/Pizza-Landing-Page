@@ -86,3 +86,9 @@ ul li a {
     background-color: #ffb300;
     z-index: -1;
 }
+
+.grid {
+    position: absolute;
+    bottom: 70px;
+    left: -70px ;
+}
