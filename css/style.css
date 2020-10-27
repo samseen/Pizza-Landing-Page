@@ -41,3 +41,21 @@ ul li a {
     color: #000;
     font-weight: 700;
 }
+
+.left {
+    width: 50%;
+    float: left;
+    text-align: right;
+    padding: 0 0 0 80px;
+}
+
+.right {
+    width: 50%;
+    float: right;
+    padding: 100px 50px;
+}
+
+.right h1 {
+    font-size: 72px;
+    font-weight: 500;
+}
