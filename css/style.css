@@ -19,3 +19,25 @@ header {
     display: inline-block;
     width: 100%;
 }
+
+.logo {
+    float: left;
+}
+
+.menu {
+    float: right;
+    margin-top: 15px;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 25px;
+}
+
+ul li a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 700;
+}
